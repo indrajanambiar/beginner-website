@@ -5,6 +5,6 @@
 2.cat
 ![cat](index.jpg)
 3.koala
-![koala](koala.jpg)
+![koala](Koala.jpg)
 
 
