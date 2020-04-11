@@ -4,7 +4,7 @@
 ![penguines](Penguins.jpg) 
 2.cat
 ![cat](index.jpg)
-3.kola
-![kola](kola.jpg)
+3.koala
+![kola](koala.jpg)
 
 
