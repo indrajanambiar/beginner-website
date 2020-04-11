@@ -1,3 +1,3 @@
-# welcome to easyst website
-## what the hel is hapening!
+# My new website
+## Wild life and animals 
 ![penguines](Penguins.jpg)
